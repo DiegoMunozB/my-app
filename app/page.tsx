@@ -1,5 +1,3 @@
-import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-
 export default function Home() {
   return (
     <section className="mt-16 flex flex-col md:flex-row items-center justify-between gap-10">
